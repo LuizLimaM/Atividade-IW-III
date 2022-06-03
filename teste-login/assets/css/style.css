@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: rgb(247, 247, 247);
+    font-family: monospace;
+    margin-top: 12%;
+}
+
+h1{
+    font-size: 2em;
+    font-weight: bold;
+}
